@@ -6,9 +6,10 @@ This year, on Halloween, there is a carnival in your neighborhood. Besides the v
 
 Your task is to predict the selling price of the products based on the provided features. 
 
-Data description
+### Data description
 The data folder consists of the following three .csv files:
 
-train.csv: (6368 x 15)
-test.csv: (3430 x 14)
+1. train.csv: (6368 x 15)
+2. test.csv: (3430 x 14)
 
+![image](https://user-images.githubusercontent.com/57305545/193866656-291a7e42-0211-4fa2-9497-1e5204b7f850.png)
